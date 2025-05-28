@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlgoMate/static/css/main.3df1b912.css",
+    "main.js": "/AlgoMate/static/js/main.c62bc622.js",
+    "static/js/453.ed3810f9.chunk.js": "/AlgoMate/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.png": "/AlgoMate/static/media/logo.ff0679ea8c685ac2f77c.png",
+    "index.html": "/AlgoMate/index.html",
+    "main.3df1b912.css.map": "/AlgoMate/static/css/main.3df1b912.css.map",
+    "main.c62bc622.js.map": "/AlgoMate/static/js/main.c62bc622.js.map",
+    "453.ed3810f9.chunk.js.map": "/AlgoMate/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df1b912.css",
+    "static/js/main.c62bc622.js"
+  ]
+}
